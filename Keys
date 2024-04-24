@@ -1,12 +1,9 @@
 // RadiationX Key Whitelists
-key=1,
-key=2,
+key=key=2,
 key=key2,
 key=key2,
-key=1,
-key=1,
-key=test,
+key=key=key=test,
 90000000,
-10000000,
+0000000,
 7,
 8999000
